@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:jigsaw",
+  "biomes": [
+    "minecraft:cold_ocean",
+    "minecraft:deep_cold_ocean",
+    "minecraft:deep_frozen_ocean",
+    "minecraft:deep_lukewarm_ocean",
+    "minecraft:deep_ocean",
+    "minecraft:frozen_ocean",
+    "minecraft:lukewarm_ocean",
+    "minecraft:ocean",
+	"minecraft:warm_ocean"
+  ],
+  "step": "surface_structures",
+  "spawn_overrides": {
+	"monster": {
+		"bounding_box": "piece",
+		"spawns": [
+			{
+				"type": "minecraft:drowned",
+				"weight": 1,
+				"maxCount": 20,
+				"minCount": 5
+			}
+		]
+	}
+  },
+  "terrain_adaptation": "beard_thin",
+  "start_pool": "atlantide:city/main",
+  "size": 7,
+  "start_height": {
+    "absolute": 0
+  },
+  "project_start_to_heightmap": "OCEAN_FLOOR_WG",
+  "max_distance_from_center": 80,
+  "use_expansion_hack": false
+}

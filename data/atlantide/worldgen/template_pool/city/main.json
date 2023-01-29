@@ -1,0 +1,34 @@
+{
+	"name": "atlantide:city/main",
+	"fallback": "minecraft:empty",
+	"elements": [
+	  {
+		"weight": 1,
+		"element": {
+		  "element_type": "minecraft:single_pool_element",
+		  "projection": "rigid",
+		  "location": "atlantide:city/centers/1",
+		  "processors": "atlantide:oldness"
+		}
+	  },
+	  {
+		"weight": 1,
+		"element": {
+		  "element_type": "minecraft:single_pool_element",
+		  "projection": "rigid",
+		  "location": "atlantide:city/centers/2",
+		  "processors": "atlantide:oldness"
+		}
+	  },
+	  {
+		"weight": 1,
+		"element": {
+		  "element_type": "minecraft:single_pool_element",
+		  "projection": "rigid",
+		  "location": "atlantide:city/centers/3",
+		  "processors": "atlantide:oldness"
+		}
+	  }
+	]
+  }
+  

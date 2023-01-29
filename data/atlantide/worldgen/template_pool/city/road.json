@@ -1,0 +1,25 @@
+{
+	"name": "atlantide:city/road",
+	"fallback": "atlantide:city/term",
+	"elements": [
+	  {
+		"weight": 5,
+		"element": {
+		  "element_type": "minecraft:single_pool_element",
+		  "projection": "rigid",
+		  "location": "atlantide:city/elements/road",
+		  "processors": "atlantide:oldness"
+		}
+	  },
+	  {
+		"weight": 2,
+		"element": {
+		  "element_type": "minecraft:single_pool_element",
+		  "projection": "rigid",
+		  "location": "atlantide:city/elements/term",
+		  "processors": "atlantide:oldness"
+		}
+	  }
+	]
+  }
+  

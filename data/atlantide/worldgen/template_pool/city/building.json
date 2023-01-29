@@ -1,0 +1,115 @@
+{
+	"name": "atlantide:city/building",
+	"fallback": "minecraft:empty",
+	"elements": [
+	  {
+		"weight": 1,
+		"element": {
+		  "element_type": "minecraft:single_pool_element",
+		  "projection": "rigid",
+		  "location": "atlantide:city/buildings/1",
+		  "processors": "atlantide:oldness"
+		}
+	  },
+	  {
+		"weight": 1,
+		"element": {
+		  "element_type": "minecraft:single_pool_element",
+		  "projection": "rigid",
+		  "location": "atlantide:city/buildings/2",
+		  "processors": "atlantide:oldness"
+		}
+	  },
+	  {
+		"weight": 1,
+		"element": {
+		  "element_type": "minecraft:single_pool_element",
+		  "projection": "rigid",
+		  "location": "atlantide:city/buildings/3",
+		  "processors": "atlantide:oldness"
+		}
+	  },
+	  {
+		"weight": 1,
+		"element": {
+		  "element_type": "minecraft:single_pool_element",
+		  "projection": "rigid",
+		  "location": "atlantide:city/buildings/4",
+		  "processors": "atlantide:oldness"
+		}
+	  },
+	  {
+		"weight": 1,
+		"element": {
+		  "element_type": "minecraft:single_pool_element",
+		  "projection": "rigid",
+		  "location": "atlantide:city/buildings/5",
+		  "processors": "atlantide:oldness"
+		}
+	  },
+	  {
+		"weight": 1,
+		"element": {
+		  "element_type": "minecraft:single_pool_element",
+		  "projection": "rigid",
+		  "location": "atlantide:city/buildings/6",
+		  "processors": "atlantide:oldness"
+		}
+	  },
+	  {
+		"weight": 1,
+		"element": {
+		  "element_type": "minecraft:single_pool_element",
+		  "projection": "rigid",
+		  "location": "atlantide:city/buildings/7",
+		  "processors": "atlantide:oldness"
+		}
+	  },
+	  {
+		"weight": 1,
+		"element": {
+		  "element_type": "minecraft:single_pool_element",
+		  "projection": "rigid",
+		  "location": "atlantide:city/buildings/8",
+		  "processors": "atlantide:oldness"
+		}
+	  },
+	  {
+		"weight": 1,
+		"element": {
+		  "element_type": "minecraft:single_pool_element",
+		  "projection": "rigid",
+		  "location": "atlantide:city/buildings/9",
+		  "processors": "atlantide:oldness"
+		}
+	  },
+	  {
+		"weight": 1,
+		"element": {
+		  "element_type": "minecraft:single_pool_element",
+		  "projection": "rigid",
+		  "location": "atlantide:city/buildings/10",
+		  "processors": "atlantide:oldness"
+		}
+	  },
+	  {
+		"weight": 1,
+		"element": {
+		  "element_type": "minecraft:single_pool_element",
+		  "projection": "rigid",
+		  "location": "atlantide:city/buildings/11",
+		  "processors": "atlantide:oldness"
+		}
+	  },
+	  {
+		"weight": 1,
+		"element": {
+		  "element_type": "minecraft:single_pool_element",
+		  "projection": "rigid",
+		  "location": "atlantide:city/buildings/12",
+		  "processors": "atlantide:oldness"
+		}
+	  }
+	]
+  }
+  

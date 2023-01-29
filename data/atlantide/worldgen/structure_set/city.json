@@ -1,0 +1,15 @@
+{
+	"structures": [
+	  {
+		"structure": "atlantide:city",
+		"weight": 1
+	  }
+	],
+	"placement": {
+	  "type": "minecraft:random_spread",
+	  "salt": 10387312,
+	  "spacing": 34,
+	  "separation": 8
+	}
+  }
+  
